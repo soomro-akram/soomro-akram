@@ -15,6 +15,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Scientist;Python+Developer;Web+Developer;Building+Projects+with+Python;Always+Learning+New+Technologies" />
 
 </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=gradient&text=About%20Me&fontColor=ffffff&fontSize=35"/>
 <h3>👨‍💻About Me</h3>
 
 Hi there! 👋 I'm **Akram Ali**, an enthusiastic **Data Scientist**, **Python Developer**, and **Web Developer** passionate about transforming ideas into real-world solutions.
@@ -29,7 +30,7 @@ I enjoy building modern web applications, analyzing data, and creating intellige
 - 📫 **Email:** soomro.akram10@gmail.com
 
 ---
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=gradient&text=Tech%20Stack%20%26%20Skills&fontColor=ffffff&fontSize=35"/>
 ## 🛠️ Tech Stack & Skills
 
 ### 👨‍💻 Programming Languages
@@ -74,7 +75,7 @@ I enjoy building modern web applications, analyzing data, and creating intellige
 - Vercel
 
 ---
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=gradient&text=Current%20Goals&fontColor=ffffff&fontSize=35"/>
 ## 🎯 Current Goals
 
 - 🤖 Master Machine Learning & AI
