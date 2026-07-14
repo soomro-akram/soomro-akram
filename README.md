@@ -2,10 +2,6 @@
 
 <div align="center">
 
-# 👋 Hi, I'm **Akram Ali**
-
-### 🚀 Passionate about Data Science, Python & Modern Web Development
-
 <a href="https://portfolio-ali1.vercel.app">
 <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -24,8 +20,6 @@
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=90&color=0:0F2027,50:203A43,100:2C5364&text=👨‍💻%20About%20Me&fontColor=ffffff&fontSize=34"/>
-
-## 👨‍💻 About Me
 
 Hi! 👋 I'm **Akram Ali**, an enthusiastic **Data Scientist**, **Python Developer**, and **Web Developer** from **Pakistan**.
 
@@ -102,8 +96,6 @@ I enjoy building responsive web applications, analyzing data, and solving real-w
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=90&color=0:134E5E,50:71B280,100:11998e&text=📈%20GitHub%20Statistics&fontColor=ffffff&fontSize=34"/>
-
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=soomro-akram&show_icons=true&theme=tokyonight"/>
@@ -116,8 +108,6 @@ I enjoy building responsive web applications, analyzing data, and solving real-w
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=90&color=0:ee0979,50:ff6a00,100:ff512f&text=🏆%20GitHub%20Achievements&fontColor=ffffff&fontSize=34"/>
-
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=soomro-akram&theme=tokyonight&row=1&column=6"/>
@@ -125,8 +115,6 @@ I enjoy building responsive web applications, analyzing data, and solving real-w
 </div>
 
 ---
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=90&color=0:cb2d3e,50:ef473a,100:ff416c&text=📞%20Connect%20With%20Me&fontColor=ffffff&fontSize=34"/>
 
 <div align="center">
 
@@ -145,5 +133,3 @@ I enjoy building responsive web applications, analyzing data, and solving real-w
 </div>
 
 ---
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:000428,50:004e92,100:00C9FF"/>
