@@ -1,179 +1,143 @@
-<div align="center">
+# 👋 Hi, I'm Akram Soomro
 
-# 👋 Hi, I'm **Akram Soomro**
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Data+Analyst;Python+Developer;Power+BI+Developer;Business+Intelligence+Enthusiast;Turning+Data+Into+Insights" />
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Data+Analyst;Python+Developer;Power+BI+Developer;SQL+%7C+Excel+%7C+Business+Analytics;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
-
-</div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-💼 Passionate **Data Scientist** and **Python Developer** and **Web Developer** focused on building insightful dashboards, automating workflows, and solving real-world business problems.
+🎯 Passionate **Data Analyst** and **Python Developer** who enjoys transforming raw data into meaningful insights.
 
-### ✨ What I Do
-
-* 📊 Data Analysis
-* 📈 Power BI Dashboard Development
+* 📊 Data Analysis & Visualization
 * 🐍 Python Programming
-* 🗄 SQL Database Queries
-* 📉 Business Intelligence
-* 📋 Microsoft Excel
-* 📌 Data Cleaning & Visualization
+* 📈 Power BI Dashboards
+* 🗄 SQL Database Management
+* 📑 Microsoft Excel
+* 🌱 Currently learning Machine Learning
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-### Programming
+<p align="center">
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode" />
 
 </p>
 
-### Analytics Tools
+### Data Analytics Tools
 
-<p>
+* Power BI
+* Microsoft Excel
+* SQL
+* Python (Pandas, NumPy, Matplotlib)
+* Data Cleaning
+* Business Analysis
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+---
 
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+## 📊 GitHub Stats
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<p align="center">
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="98%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-# 📈 Contribution Graph
+## 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4"/>
+
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 📊 Financial Dashboard
+
+* Power BI Dashboard
+* KPI Analysis
+* Revenue Analysis
+* Profit Insights
+
+---
+
+### 💰 Budget Management System
+
+* Expense Tracking
+* Income Analysis
+* Budget Planning
+
+---
+
+### 📈 Business Analysis Dashboard
+
+* Sales Analytics
+* Customer Insights
+* Performance Dashboard
+
+---
+
+### 🌐 Personal Portfolio Website
+
+* HTML
+* CSS
+* JavaScript
+* Responsive Design
+
+---
+
+## 📜 Certifications
+
+* ✅ Python Programming Course
+* ✅ Data Analytics Certification
+* ✅ Microsoft Excel
+* ✅ Power BI Fundamentals
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 
-</div>
+</p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 👀 Profile Views
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
 
-</div>
-
----
-
-# 📂 Featured Projects
-
-## 📊 Financial Dashboard
-
-✔ Revenue Analysis
-
-✔ KPI Dashboard
-
-✔ Sales Performance
-
-✔ Profit Insights
+</p>
 
 ---
 
-## 💰 Budget Management System
+## 🌐 Connect With Me
 
-✔ Expense Tracking
-
-✔ Budget Planning
-
-✔ Monthly Reports
-
-✔ Data Visualization
-
----
-
-## 📈 Business Analysis Dashboard
-
-✔ Customer Insights
-
-✔ Business KPIs
-
-✔ Interactive Charts
-
-✔ Decision Support
-
----
-
-## 🌐 Personal Portfolio Website
-
-✔ HTML
-
-✔ CSS
-
-✔ JavaScript
-
-✔ Responsive Design
-
-✔ Modern UI
-
----
-
-# 📜 Certifications
-
-🏅 Python Programming
-
-🏅 Data Analytics
-
-🏅 Microsoft Excel
-
-🏅 Power BI
-
----
-
-# 🌱 Currently Learning
-
-* Machine Learning
-* AI for Data Analytics
-* Advanced SQL
-* Data Engineering
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -184,27 +148,25 @@
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO">
+<a href="https://YOUR_PORTFOLIO_LINK">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-# 💬 Favorite Quote
+## 💡 Quote
 
-> **"Data is a valuable asset when it is transformed into meaningful insights."**
+> **"Without data, you're just another person with an opinion." — W. Edwards Deming**
 
 ---
 
-<div align="center">
+<p align="center">
 
-## ⭐ If you like my work, don't forget to star my repositories!
+⭐ Thanks for visiting my profile! ⭐
 
-### Thanks for visiting my GitHub Profile ❤️
-
-</div>
+</p>
