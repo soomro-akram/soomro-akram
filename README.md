@@ -19,5 +19,73 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Scientist;Python+Developer;Web+Developer;Building+Projects+with+Python;Always+Learning+New+Technologies" />
 
 </div>
+## 👨‍💻 About Me
+
+Hi there! 👋 I'm **Akram Ali**, an enthusiastic **Data Scientist**, **Python Developer**, and **Web Developer** passionate about transforming ideas into real-world solutions.
+
+I enjoy building modern web applications, analyzing data, and creating intelligent solutions using Python. I'm continuously learning new technologies and improving my problem-solving skills to become a better software developer.
+
+- 🌱 Currently exploring **Data Science, Machine Learning & Artificial Intelligence**
+- 💻 Developing responsive web applications with **HTML, CSS & JavaScript**
+- 🐍 Building automation scripts and data-driven projects with **Python**
+- 📊 Interested in **Data Analysis, Dashboards & Business Intelligence**
+- 🚀 Always learning, experimenting, and contributing to exciting projects
+- 🌐 **Portfolio:** <https://portfolio-ali1.vercel.app>
+- 📫 **Email:** your-email@example.com
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
+
+### 📊 Data Science & Analytics
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- 📈 Data Analysis
+- 📉 Data Visualization
+- 🧮 NumPy
+- 🐼 Pandas
+- 📊 Matplotlib
+
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+- Responsive Web Design
+- Interactive User Interfaces
+- Modern Frontend Development
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+### ⚙️ Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+
+- Git & GitHub
+- Visual Studio Code
+- Jupyter Notebook
+- Google Colab
+- Vercel
+
+---
+
+## 🎯 Current Goals
+
+- 🤖 Master Machine Learning & AI
+- 📊 Build real-world Data Science projects
+- 🌍 Contribute to Open Source
+- 💼 Grow as a Professional Python & Full-Stack Developer
+- 🚀 Create impactful applications that solve real-world problems
 
 ---
