@@ -1,4 +1,3 @@
-# Akram-Ali
 <div align="center">
 
 # 👋 Hi, I'm **Akram Soomro**
@@ -17,7 +16,7 @@
 
 # 🚀 About Me
 
-💼 Passionate **Data Analyst** and **Python Developer** focused on building insightful dashboards, automating workflows, and solving real-world business problems.
+💼 Passionate **Data Scientist** and **Python Developer** and **Web Developer** focused on building insightful dashboards, automating workflows, and solving real-world business problems.
 
 ### ✨ What I Do
 
