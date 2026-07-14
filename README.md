@@ -31,7 +31,6 @@ I enjoy building modern web applications, analyzing data, and creating intellige
 
 ---
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=gradient&text=Tech%20Stack%20%26%20Skills&fontColor=ffffff&fontSize=35"/>
-## 🛠️ Tech Stack & Skills
 
 ### 👨‍💻 Programming Languages
 <p>
