@@ -1,3 +1,4 @@
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000428,100:004e92&text=Akram%20Ali&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Data%20Scientist%20•%20Python%20Developer%20•%20Web%20Developer&descAlignY=58"/>
 <div align="center">
 
 # 👋 Hi, I'm **Akram Ali**
@@ -7,7 +8,7 @@
 ### Building projects with Python
 
 <p
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000428,100:004e92&text=Akram%20Ali&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Data%20Scientist%20•%20Python%20Developer%20•%20Web%20Developer&descAlignY=58"/>
+ 
   <p align="center">
   <a href="https://portfolio-ali1.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
