@@ -6,14 +6,15 @@
 
 ### Building projects with Python
 
-<p>
+<p
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000428,100:004e92&text=Akram%20Ali&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Data%20Scientist%20•%20Python%20Developer%20•%20Web%20Developer&descAlignY=58"/>
   <p align="center">
   <a href="https://portfolio-ali1.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/followers/soomro-akram?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/stars/soomro-akram?style=for-the-badge&logo=github"/>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Scientist;Python+Developer;Web+Developer;Building+Projects+with+Python;Always+Learning+New+Technologies" />
