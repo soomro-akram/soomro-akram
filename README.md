@@ -19,19 +19,18 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Scientist;Python+Developer;Web+Developer;Building+Projects+with+Python;Always+Learning+New+Technologies" />
 
 </div>
-## 👨‍💻 About Me
+<h3>👨‍💻About Me</h3>
 
 Hi there! 👋 I'm **Akram Ali**, an enthusiastic **Data Scientist**, **Python Developer**, and **Web Developer** passionate about transforming ideas into real-world solutions.
 
 I enjoy building modern web applications, analyzing data, and creating intelligent solutions using Python. I'm continuously learning new technologies and improving my problem-solving skills to become a better software developer.
 
-- 🌱 Currently exploring **Data Science, Machine Learning & Artificial Intelligence**
 - 💻 Developing responsive web applications with **HTML, CSS & JavaScript**
 - 🐍 Building automation scripts and data-driven projects with **Python**
 - 📊 Interested in **Data Analysis, Dashboards & Business Intelligence**
 - 🚀 Always learning, experimenting, and contributing to exciting projects
 - 🌐 **Portfolio:** <https://portfolio-ali1.vercel.app>
-- 📫 **Email:** your-email@example.com
+- 📫 **Email:** soomro.akram10@gmail.com
 
 ---
 
