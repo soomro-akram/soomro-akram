@@ -7,7 +7,11 @@
 ### Building projects with Python
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+  <p align="center">
+  <a href="https://portfolio-ali1.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
   <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github"/>
 </p>
