@@ -94,17 +94,6 @@ I enjoy building responsive web applications, analyzing data, and solving real-w
 - 💼 Become a Professional Python Developer
 - 🚀 Create Real-World Software Solutions
 
----
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=soomro-akram&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soomro-akram&layout=compact&theme=tokyonight"/>
-
-<img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=soomro-akram&theme=tokyonight"/>
-
-</div>
 
 ---
 
@@ -115,7 +104,7 @@ I enjoy building responsive web applications, analyzing data, and solving real-w
 </div>
 
 ---
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=90&color=0:cb2d3e,50:ef473a,100:ff416c&text=📞%20Connect%20With%20Me&fontColor=ffffff&fontSize=34"/>
 <div align="center">
 
 <a href="mailto:soomro.akram10@gmail.com">
