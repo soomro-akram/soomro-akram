@@ -96,14 +96,6 @@ I enjoy building responsive web applications, analyzing data, and solving real-w
 
 
 ---
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=soomro-akram&theme=tokyonight&row=1&column=6"/>
-
-</div>
-
----
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=90&color=0:cb2d3e,50:ef473a,100:ff416c&text=📞%20Connect%20With%20Me&fontColor=ffffff&fontSize=34"/>
 <div align="center">
 
