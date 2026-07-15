@@ -6,18 +6,12 @@
 <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/github/followers/soomro-akram?style=for-the-badge&logo=github&color=0D1117"/>
 <img src="https://img.shields.io/github/stars/soomro-akram?style=for-the-badge&logo=github&color=0D1117"/>
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Scientist;Python+Developer;Web+Developer;Building+Real-World+Projects;Always+Learning+New+Technologies"/>
-
-</div>
-
----
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=90&color=0:0F2027,50:203A43,100:2C5364&text=👨‍💻%20About%20Me&fontColor=ffffff&fontSize=34"/>
 
