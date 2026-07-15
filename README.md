@@ -6,14 +6,13 @@
   <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/github/followers/soomro-akram?style=for-the-badge&logo=github&color=0D1117&labelColor=000000"/>
 <img src="https://img.shields.io/github/stars/soomro-akram?style=for-the-badge&logo=github&color=0D1117&labelColor=000000"/>
 <img src="https://komarev.com/ghpvc/?username=soomro-akram&style=for-the-badge&color=0D1117&labelColor=000000" alt="Profile views"/>
-
 </div>
-
+<br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=90&color=0:0F2027,50:203A43,100:2C5364&text=👨‍💻%20About%20Me&fontColor=ffffff&fontSize=34"/>
 
 Hi there! 👋 I'm **Akram Ali**, an enthusiastic **Data Scientist**, **Python Developer**, and **Web Developer** based in **Pakistan**.
