@@ -64,19 +64,6 @@ I enjoy building responsive web applications, analyzing data, and solving real-w
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=90&color=0:1e3c72,50:2a5298,100:1e3c72&text=📊%20GitHub%20Stats&fontColor=ffffff&fontSize=34"/>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=soomro-akram&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=soomro-akram&theme=react&hide_border=true&background=0D1117"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soomro-akram&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
-<br>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=90&color=0:11998e,50:38ef7d,100:56ab2f&text=🎯%20Current%20Goals&fontColor=ffffff&fontSize=34"/>
 
 - 🤖 Learn Machine Learning & AI
